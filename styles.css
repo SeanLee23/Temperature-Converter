@@ -1,0 +1,19 @@
+.converter {
+    text-align: center;
+  }
+  
+  .input-container {
+    margin: 20px 0;
+  }
+  
+  .input-container input, .input-container select {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .result {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
